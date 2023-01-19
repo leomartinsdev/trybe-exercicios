@@ -1,0 +1,19 @@
+h1, p {
+    text-align: center;
+}
+
+ul:hover, ol:hover {
+    background-color: aquamarine;
+}
+
+li:active {
+    font-family: 'Pacifico', cursive;
+}
+
+.motivos {
+    list-style: none;
+}
+
+li {
+    list-style: none;
+}
