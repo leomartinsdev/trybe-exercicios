@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "redux": "^4.2.1",
+    "vite": "^4.3.5"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
